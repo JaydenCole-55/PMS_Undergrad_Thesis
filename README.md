@@ -1,2 +1,2 @@
 # PMS_Undergrad_Thesis
-Files to simplify the life of Annmarie Lang-Hodge with data manipulation for her undergrad thesis
+Files to simplify the life of another undergrad with data manipulation for their undergrad thesis
